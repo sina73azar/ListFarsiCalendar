@@ -41,4 +41,6 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    //time4j
+    implementation group: 'net.time4j', name: 'time4j-android', version: '4.7.2-2020e'
 }
